@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ ""P298VA8FBQ.com.hourui.UniversalLinkDemo"],
+             "appIDs": [ "P298VA8FBQ.com.hourui.UniversalLinkDemo"],
              "components": [
                {
                   "#": "no_universal_links",
@@ -28,7 +28,7 @@
        ]
    },
    "webcredentials": {
-      "apps": [ ""P298VA8FBQ.com.hourui.UniversalLinkDemo" ]
+      "apps": [ "P298VA8FBQ.com.hourui.UniversalLinkDemo" ]
    }
 }
 
